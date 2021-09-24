@@ -5,9 +5,13 @@
 
 ![MySkills](https://github-readme-stats.vercel.app/api?username=Ayoubkassi&show_icons=true&theme=radical)
 
+<!--
+
 Top Languages
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoubkassi&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+-->
 
 
 
