@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello This is Ayoub Kassi 👋
+**I was never the best at school or academics, I’m just a super curious guy 🔭**
 
-<!--
-**Ayoubkassi/Ayoubkassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[MyPortfolio](https://ayoubkassi.cf/)
 
-Here are some ideas to get you started:
+![MySkills](https://github-readme-stats.vercel.app/api?username=Ayoubkassi&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Top Languages
+
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoubkassi&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+
+
