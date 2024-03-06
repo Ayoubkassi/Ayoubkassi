@@ -9,7 +9,7 @@
 <p align="center">
   <p align="center">Hi, I'm Ayoub Kassi, Software Engineer </p>
 
-  <p align="center">💻🎓 I'm currently working as a Software Engineer Intern at Heex Technologies France</p>
+  <p align="center">💻🎓 I'm currently working as a Software Engineer Intern at Pigment France</p>
 
   <p align="center">Java enthusiast 🚀 I'm specialized in Distributed Systems 😊</p>
 
